@@ -22,5 +22,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 This project makes use of the following freely available asset packs:
-* **"Crash Crate" by Arion Digital** - https://assetstore.unity.com/packages/3d/props/industrial/crash-crate-161268
-* **"Hammer" by RRFreelance / PiXelBurner - https://assetstore.unity.com/packages/3d/props/tools/hammer-20496
+* **"Crash Crate"** by *Arion Digital* - https://assetstore.unity.com/packages/3d/props/industrial/crash-crate-161268
+* **"Hammer"** by *RRFreelance / PiXelBurner* - https://assetstore.unity.com/packages/3d/props/tools/hammer-20496
